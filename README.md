@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm timiOluwa(Babailo Oluwatimilehin</h1>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/your-image.png" width="200" alt="Profile Picture" />
