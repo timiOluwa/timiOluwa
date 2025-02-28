@@ -1,80 +1,59 @@
-<h1 align="center">Hi there! 👋 I'm timiOluwa(Babailo Oluwatimilehin</h1>
+# Hi there, I'm Babailo Oluwatimilehin! 👋
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/your-image.png" width="200" alt="Profile Picture" />
-</p>
+## 💻 About Me
+I'm a **Web Developer** and **Graphic Designer** passionate about creating impactful digital experiences. I specialize in **frontend and backend development**, using technologies like PHP, MySQL, JavaScript, and Bootstrap. I also offer professional **graphic design services** tailored for foreign small business owners.
 
-<p align="center">
-    <b>Web Developer | Frontend & Backend Enthusiast | Lifelong Learner</b>
-</p>
+## 🚀 Tech Stack
 
----
+### 💡 Frontend
+- HTML, CSS, Bootstrap
+- JavaScript (Vanilla, jQuery)
+- Responsive Web Design
 
-### 👨‍💻 About Me
+### 🛠 Backend
+- PHP (Raw PHP, PDO for database connections)
+- MySQL (Database management)
+- XAMPP (Local development)
 
-- 🔭 Currently working on **[Event Countdown Website](#)**
-- 🎨 Building a **Fashion Lookbook Website**
-- 🌱 Exploring **Cryptocurrency Wallet Security** & **SMTP Configuration**
-- 📚 Studying recent trends in **UI/UX Design** and **Frontend Animations**
+### 🎨 Graphic Design
+- CorelDRAW
+- Adobe Photoshop
 
----
+## 📂 Notable Projects
 
-### 🚀 Tech Stack
+### 🔥 Event Countdown Website
+- **Description:** A web app that allows users to set event countdowns and receive email notifications when the countdown reaches zero.
+- **Tech Used:** PHP, MySQL, Bootstrap, JavaScript, SMTP for email notifications.
+- **Key Features:** Event categorization ("Event Tribe"), real-time countdown timer, email notifications.
 
-#### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-</p>
+### 👗 Fashion Lookbook Website
+- **Description:** A visually appealing static website showcasing fashion styles and trends.
+- **Tech Used:** HTML, CSS, Bootstrap, JavaScript (animations, sliders).
+- **Key Features:** No database (mentioned in suggested improvements), interactive UI with high-quality images.
 
-#### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://simpleicons.org/icons/maildotru.svg" width="40" height="40" alt="SMTP" />
-</p>
+### ✅ To-Do List Application
+- **Description:** A task management system with user authentication.
+- **Tech Used:** PHP, MySQL, Sessions for login authentication.
+- **Key Features:** User login/logout, session-based authentication, task management.
 
-#### Tools
-<p>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F96018%2Fxampp_icon&psig=AOvVaw2LWQS4OabCO4-il0d7e3IK&ust=1730610996703000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDU8e_yvIkDFQAAAAAdAAAAABAE" alt="XAMPP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" width="40" height="40" alt="phpMyAdmin" />
-</p>
+### 🏥 HealthProof Webpage
+- **Description:** A responsive static webpage focused on healthcare information.
+- **Tech Used:** HTML, CSS.
+- **Key Features:** Icon-based UI, fully responsive design.
 
----
+### 🎨 Portfolio Website
+- **Description:** A personal portfolio to showcase my projects and skills.
+- **Tech Used:** HTML, CSS, Bootstrap.
+- **Link:** [Visit Portfolio](https://toa-media.vercel.app)
 
-### 🛠️ Projects
+## 📬 Contact Me
+📧 Email: [babailotimilehin@gmail.com](mailto:babailotimilehin@gmail.com)  
+📱 Phone: +234 813 904 4985, +234 902 194 5970  
+🌍 Portfolio: [toa-media.vercel.app](https://toa-media.vercel.app)  
+💼 LinkedIn: *Coming Soon!*  
 
-#### 🎉 [Event Countdown Website](#)
-A responsive website that lets users set event dates, view live countdowns, and receive email notifications when events go live.
-
-
-#### 👗 [Fashion Lookbook Website](#)
-A fashion portfolio site built with HTML, CSS, JavaScript, and Bootstrap, showcasing visually appealing looks and animations.
-
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="335" />
-</p>
+## 📊 GitHub Stats
+![Timioluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timioluwa&show_icons=true&theme=radical)
 
 ---
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://mail.google.com/mail/babailotimilehin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email" /></a>
-  <a href="https://linkedin.com/timilehin babailo"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/timioluwamedia"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="Portfolio" /></a>
-</p>
-
----
-
-<p align="center">
-    Thanks for visiting my profile! 😊
-</p>
+### Thanks for stopping by! 🚀 Let's build something amazing together!
