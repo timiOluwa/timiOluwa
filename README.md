@@ -7,8 +7,8 @@ I'm a **Web Developer** and **Graphic Designer** passionate about creating impac
 
 ### 💡 Frontend
 - HTML, CSS, Bootstrap
-- JavaScript (Vanilla, jQuery)
-- Responsive Web Design
+- JavaScript (React)
+- TailwindCSS
 
 ### 🛠 Backend
 - PHP (Raw PHP, PDO for database connections)
